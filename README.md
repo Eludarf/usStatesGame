@@ -2,12 +2,12 @@
 A Python app that tests your US States knowledge and creates a list of states that you missed, so you can learn them later.
 
 # Installation
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/Eludarf/usStatesGame.git
 cd usStatesGame
 
-Install required packages:
+**Install required packages:**
 
 pip install pandas
 
